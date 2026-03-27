@@ -3,14 +3,14 @@
 # Project Overview
 This project is a script report the aws resource usage 
 
-## features
-## List the s3 buckets
-## List the EC2 instances
-## List the Lambada functions
-## List the IAM users
-## Saves output to file
-## Runs automatically using cron job
-## Fixed the permission errors while execution
+## Features
+ List the s3 buckets
+ List the EC2 instances
+ List the Lambada functions
+ List the IAM users
+ Saves output to file
+ Runs automatically using cron job
+ Fixed the permission errors while execution
 
 # Technologies used
 Bash scripting
